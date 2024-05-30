@@ -1,7 +1,7 @@
 # Playground Series S3E6: Predicting the Future
 Welcome to the Kaggle Playground Series S3E6 project! This repository contains all the essential files and scripts to participate in the competition. For a detailed overview, visit the Kaggle competition page.
 
-Link - [https://www.kaggle.com/datasets/mssmartypants/paris-housing-price-prediction](http://)
+Link - https://www.kaggle.com/competitions/playground-series-s3e6/overview
 # Contents-
 
 ## 1. train.csv: Training dataset
